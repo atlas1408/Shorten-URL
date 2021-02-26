@@ -23,9 +23,9 @@ It consists of following libraries:
 
 - Move into Project(url-shortener) directory.
 
-- Run command: export FLASK_APP=urlshort
+- Run command: ```export FLASK_APP=urlshort``` 
 
-- Run command: flask run
+- Run command: ```flask run```
 
 ## Technologies Used
 - Flask
